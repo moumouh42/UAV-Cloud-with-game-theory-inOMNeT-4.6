@@ -17,8 +17,8 @@ This project can help researchers simulate drones under OMNeT++. Moreover, we de
 
 Here are two photos that illustrate where to change your OMNeT++:
 
-- ![image01](https://github.com/moumouh42/UAV-Cloud-with-game-theory-inOMNeT-4.6/assets/153837902/1b002022-0225-4d08-a0bf-9f84d8ba254f)
-- ![image02](https://github.com/moumouh42/UAV-Cloud-with-game-theory-inOMNeT-4.6/assets/153837902/e573f6b6-4fb1-441a-878b-3d55af079758)
+ ![image01](https://github.com/moumouh42/UAV-Cloud-with-game-theory-inOMNeT-4.6/assets/153837902/1b002022-0225-4d08-a0bf-9f84d8ba254f)
+ ![image02](https://github.com/moumouh42/UAV-Cloud-with-game-theory-inOMNeT-4.6/assets/153837902/e573f6b6-4fb1-441a-878b-3d55af079758)
 
 And here is the video that shows a simulation with 15 supplier drones and 15 client drones, so a GS starts the game theory between them:
 
